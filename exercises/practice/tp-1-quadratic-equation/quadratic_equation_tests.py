@@ -8,7 +8,7 @@ from quadratic_equation import (
 # Tests adapted from `problem-specifications//canonical-data.json`
 
 
-class ResistorColorTest(unittest.TestCase):
+class QuadraticTest(unittest.TestCase):
 
     def test_roots(self):
         self.assertEquals(Quadratic(2, 0, 0).roots(), (0, 0))

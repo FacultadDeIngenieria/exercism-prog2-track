@@ -10,7 +10,7 @@ from trying_types import (
 # Tests adapted from `problem-specifications//canonical-data.json`
 
 
-class ResistorColorTest(unittest.TestCase):
+class TypingTest(unittest.TestCase):
 
     def test_sum_lists(self):
         self.assertEqual(sum_lists([]), 0)
