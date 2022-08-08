@@ -27,4 +27,4 @@ This class have all this behaviour:
 
 `str(Quadratic(1, 2, 3))` should return `1 * X2 + 2 * X + 3`
 
-`Quadratic(1, 2, 3).derivative()` should return `1 * X + 2`
+`Quadratic(1, 2, 3).derivative()` should return `2 * X + 2`

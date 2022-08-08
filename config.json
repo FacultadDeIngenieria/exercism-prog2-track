@@ -61,6 +61,15 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-1-matrix",
+        "name": "TP1 - Matrix",
+        "uuid": "885de685-3840-485b-93aa-cec76bb0a299",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2,
+        "status": "beta"
       }
     ],
     "foregone": [
