@@ -21,12 +21,12 @@ class QuadraticTest(unittest.TestCase):
         self.assertEquals(Quadratic(2.5, 1.3, 8.2).evaluate(2), 20.8)
 
     def test_to_string(self):
-        self.assertEquals(str(Quadratic(1, 2, 3)), "Y = 1 * X2 + 1 X + 3")
-        self.assertEquals(str(Quadratic(4, 2, 1)), "Y = 4 * X2 + 2 X + 1")
+        self.assertEquals(str(Quadratic(1, 2, 3)), "Y = 1 * X2 + 2 * X + 3")
+        self.assertEquals(str(Quadratic(4, 2, 1)), "Y = 4 * X2 + 2 * X + 1")
 
     def test_derivative(self):
-        self.assertEquals(str(Quadratic(1, 2)), "Y = 1 * X + 2")
-        self.assertEquals(str(Quadratic(3, 4)), "Y = 3 * X + 4")
+        self.assertEquals(Quadratic(1, 2).derivative(), "Y = 2 * X + 2")
+        self.assertEquals(Quadratic(3, 4).derivative(), "Y = 6 * X + 4")
 
 
 
