@@ -70,6 +70,15 @@
         "prerequisites": [],
         "difficulty": 2,
         "status": "beta"
+      },
+      {
+        "slug": "installing-locally",
+        "name": "Installing Locally",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fb",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2,
+        "status": "beta"
       }
     ],
     "foregone": [
