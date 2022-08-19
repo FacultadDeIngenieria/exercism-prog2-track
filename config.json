@@ -97,6 +97,14 @@
         "prerequisites": [],
         "difficulty": 2,
         "status": "beta"
+      },
+      {
+        "slug": "tp3-word-count",
+        "name": "TP3 - Word Count",
+        "uuid": "3334d53b-7d28-4a06-b545-148d05e87744",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
       }
     ],
     "foregone": [
