@@ -105,6 +105,15 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 2
+      },
+       {
+        "slug": "tp3-cater-waiter",
+        "name": "TP3 - Cater Waiter",
+        "uuid": "20a56fd3-34a8-4770-9100-2c97f2564bd5",
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+         "difficulty": 2
       }
     ],
     "foregone": [
