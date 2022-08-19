@@ -72,6 +72,15 @@
         "status": "beta"
       },
       {
+        "slug": "tp-2-matrix-reloaded",
+        "name": "TP2 - Matrix & Exceptions",
+        "uuid": "ccf7641b-d85f-4d2f-a79c-485ae5096e7b",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2,
+        "status": "beta"
+      },
+      {
         "slug": "installing-locally",
         "name": "Installing Locally",
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fb",
