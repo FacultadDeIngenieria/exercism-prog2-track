@@ -93,6 +93,9 @@
         "slug": "tp3-inventory-management",
         "name": "TP3 - Inventory Management",
         "uuid": "4df33a22-ecad-471b-ba90-8f0de671409d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2,
         "status": "beta"
       }
     ],
