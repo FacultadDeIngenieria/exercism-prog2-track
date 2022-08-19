@@ -93,3 +93,7 @@ Matrix([[6, 1],
         [4, -9],
         [24, 8]])
 ```
+
+## Instructions
+
+* [Python Magic methods](https://python-course.eu/oop/magic-methods.php) 
