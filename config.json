@@ -90,7 +90,7 @@
         "status": "beta"
       },
        {
-        "slug": "tp3-inventory-management",
+        "slug": "tp-3-inventory-management",
         "name": "TP3 - Inventory Management",
         "uuid": "4df33a22-ecad-471b-ba90-8f0de671409d",
         "practices": [],
@@ -99,7 +99,7 @@
         "status": "beta"
       },
       {
-        "slug": "tp3-word-count",
+        "slug": "tp-3-word-count",
         "name": "TP3 - Word Count",
         "uuid": "3334d53b-7d28-4a06-b545-148d05e87744",
         "practices": [],
@@ -107,7 +107,7 @@
         "difficulty": 2
       },
        {
-        "slug": "tp3-cater-waiter",
+        "slug": "tp-3-cater-waiter",
         "name": "TP3 - Cater Waiter",
         "uuid": "20a56fd3-34a8-4770-9100-2c97f2564bd5",
         "concepts": [],
