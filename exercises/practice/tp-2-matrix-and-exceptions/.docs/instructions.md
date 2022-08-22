@@ -12,7 +12,7 @@ If **A** has dimensions **m × n** and **B** has dimensions **n x p**.
 
 Then the product **C = A x B** has dimensions **m x p**.
 
-Where C<sub>i,j</sub> = Sum of each element of the row A<sub>i</sub> by each element of the column B<sub>j</sub>.
+Where C<sub>i,j</sub> = Sum of each element of the row A<sub>i</sub> by each element of the column B<sub>j</sub>. [See](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
 ![See](matrixmultiplication.jpeg)
 
@@ -49,7 +49,7 @@ Matrix([[2, 4, 6], [8, 10, 12]])
 
 ### Add
 
-Given 2 Matrix compute the sum of them and return the result as another Matrix. Raise an exception when dimension doesn't match
+Given 2 Matrix compute the sum of them and return the result as another Matrix. Raise an exception when dimension doesn't match. [See](https://en.wikipedia.org/wiki/Matrix_addition)
 
 ![See](matrix-add.png)
 
@@ -73,7 +73,7 @@ Raise an exception if argument that is multiplying the matrix isn't another Matr
 
 ### Transpose
 
-Given a Matrix compute the transpose of it and return the result as another Matrix.
+Given a Matrix compute the transpose of it and return the result as another Matrix. [See](https://en.wikipedia.org/wiki/Transpose)
 
 ![See](transpose.png)
 
