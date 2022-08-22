@@ -18,7 +18,7 @@ class QuadraticTest(unittest.TestCase):
     def test_evaluate(self):
         self.assertEquals(Quadratic(1, 1, 1).evaluate(1), 3)
         self.assertEquals(Quadratic(3, 2, 1).evaluate(4), 57)
-        self.assertEquals(Quadratic(2.5, 1.3, 8.2).evaluate(2), 20.8)
+        self.assertEquals(Quadratic(2.5, 1.3, 8.2).evaluate(2), 2.5 * 2 * 2 + 1.3 * 2 + 8.2)
 
     def test_to_string(self):
         self.assertEquals(str(Quadratic(1, 2, 3)), "Y = 1 * X2 + 2 * X + 3")
