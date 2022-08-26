@@ -25,7 +25,6 @@ class FractionTest(unittest.TestCase):
 
     def test_mul(self):
         result = Fraction(1, 2) * Fraction(1, 4)
-        self.assertAlmostEqual()
         self.assertEqual(Fraction(1, 8), result)
 
     # def test_gcd(self):
