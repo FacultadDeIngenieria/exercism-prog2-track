@@ -33,7 +33,7 @@
     ]
   },
   "exercises": {
-    "concept":[],
+    "concept": [],
     "practice": [
       {
         "slug": "hello-world",
@@ -89,7 +89,7 @@
         "difficulty": 2,
         "status": "beta"
       },
-       {
+      {
         "slug": "tp-3-inventory-management",
         "name": "TP3 - Inventory Management",
         "uuid": "4df33a22-ecad-471b-ba90-8f0de671409d",
@@ -106,14 +106,23 @@
         "prerequisites": [],
         "difficulty": 2
       },
-       {
+      {
         "slug": "tp-3-cater-waiter",
         "name": "TP3 - Cater Waiter",
         "uuid": "20a56fd3-34a8-4770-9100-2c97f2564bd5",
         "concepts": [],
         "prerequisites": [],
         "status": "beta",
-         "difficulty": 2
+        "difficulty": 2
+      },
+      {
+        "slug": "tp-4-fraction",
+        "name": "TP4 - Fraction",
+        "uuid": "3e77916c-4ef3-4063-8343-0421c8b61277",
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 2
       }
     ],
     "foregone": [
