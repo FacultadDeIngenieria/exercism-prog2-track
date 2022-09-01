@@ -123,6 +123,15 @@
         "prerequisites": [],
         "status": "beta",
         "difficulty": 2
+       },
+      {
+        "slug": "school",
+        "name": "School",
+        "uuid": "320A4357-8B92-4C67-A2C0-2BC065D7BA1C", 
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 3
       }
     ],
     "foregone": [
