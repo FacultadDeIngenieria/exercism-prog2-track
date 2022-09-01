@@ -128,10 +128,11 @@
         "slug": "school",
         "name": "School",
         "uuid": "320A4357-8B92-4C67-A2C0-2BC065D7BA1C", 
+        "practices": ["sets", "dicts", "classes"],
         "concepts": [],
         "prerequisites": [],
         "status": "beta",
-        "difficulty": 3
+        "difficulty": 4
       }
     ],
     "foregone": [
