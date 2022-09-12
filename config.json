@@ -135,9 +135,9 @@
         "difficulty": 4
       },
       {
-        "slug": "circular-buffer",
-        "name": "Circular Buffer",
-        "uuid": "48cb80fe-54cb-48ba-9bbc-ad714017aa97",
+        "slug": "practice-circular-buffer",
+        "name": "Practice - Circular Buffer",
+        "uuid": "21a414aa-c010-4bbe-b472-8c2a3601f1ab",
         "practices": ["sets", "dicts", "classes"],
         "concepts": [],
         "prerequisites": [],
