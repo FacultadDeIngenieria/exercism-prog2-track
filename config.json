@@ -133,6 +133,16 @@
         "prerequisites": [],
         "status": "beta",
         "difficulty": 4
+      },
+      {
+        "slug": "circular-buffer",
+        "name": "Circular Buffer",
+        "uuid": "48cb80fe-54cb-48ba-9bbc-ad714017aa97",
+        "practices": ["sets", "dicts", "classes"],
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 4
       }
     ],
     "foregone": [
