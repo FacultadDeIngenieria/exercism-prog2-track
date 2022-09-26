@@ -125,7 +125,7 @@
         "difficulty": 2
        },
       {
-        "slug": "school",
+        "slug": "tp-5-school",
         "name": "School",
         "uuid": "320A4357-8B92-4C67-A2C0-2BC065D7BA1C", 
         "practices": ["sets", "dicts", "classes"],
@@ -138,6 +138,16 @@
         "slug": "practice-circular-buffer",
         "name": "Practice - Circular Buffer",
         "uuid": "21a414aa-c010-4bbe-b472-8c2a3601f1ab",
+        "practices": ["sets", "dicts", "classes"],
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 4
+      },
+      {
+        "slug": "tp-6-xor",
+        "name": "XOR encryption",
+        "uuid": "21a414aa-c010-4bbe-b472-8c2a3601f1ac",
         "practices": ["sets", "dicts", "classes"],
         "concepts": [],
         "prerequisites": [],
