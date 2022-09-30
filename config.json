@@ -126,7 +126,7 @@
        },
       {
         "slug": "tp-5-school",
-        "name": "School",
+        "name": "TP5 - School",
         "uuid": "320A4357-8B92-4C67-A2C0-2BC065D7BA1C", 
         "practices": ["sets", "dicts", "classes"],
         "concepts": [],
@@ -146,13 +146,37 @@
       },
       {
         "slug": "tp-6-xor",
-        "name": "XOR encryption",
+        "name": "TP6 - XOR encryption",
         "uuid": "21a414aa-c010-4bbe-b472-8c2a3601f1ac",
         "practices": ["sets", "dicts", "classes"],
         "concepts": [],
         "prerequisites": [],
         "status": "beta",
         "difficulty": 4
+      },
+      {
+        "slug": "sum-of-multiples",
+        "name": "TP7 - Sum Of Multiples",
+        "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b069",
+        "practices": ["sets"],
+        "prerequisites": [],
+        "difficulty": 1
+      },
+      {
+        "slug": "protein-translation",
+        "name": "TP7 - Protein Translation",
+        "uuid": "c89243f3-703e-4fe0-8e43-f200eedf2825",
+        "practices": ["loops"],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
+        "slug": "trapezoid-rule",
+        "name": "TP7 - Trapezoid rule",
+        "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b070",
+        "practices": ["sets"],
+        "prerequisites": [],
+        "difficulty": 1
       }
     ],
     "foregone": [
