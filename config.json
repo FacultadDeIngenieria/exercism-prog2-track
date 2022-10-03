@@ -157,17 +157,19 @@
       {
         "slug": "sum-of-multiples",
         "name": "TP7 - Sum Of Multiples",
-        "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b069",
+        "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b072",
         "practices": ["sets"],
         "prerequisites": [],
+        "status": "beta",
         "difficulty": 1
       },
       {
         "slug": "protein-translation",
         "name": "TP7 - Protein Translation",
-        "uuid": "c89243f3-703e-4fe0-8e43-f200eedf2825",
+        "uuid": "c89243f3-703e-4fe0-8e43-f200eedf2871",
         "practices": ["loops"],
         "prerequisites": [],
+        "status": "beta",
         "difficulty": 2
       },
       {
@@ -176,6 +178,7 @@
         "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b070",
         "practices": ["sets"],
         "prerequisites": [],
+        "status": "beta",
         "difficulty": 1
       }
     ],
