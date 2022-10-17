@@ -180,6 +180,15 @@
         "prerequisites": [],
         "status": "beta",
         "difficulty": 1
+      },
+      {
+        "slug": "tp-8-shapes",
+        "name": "TP8 - Shapes",
+        "uuid": "c0ef08d7-52b8-46d4-b846-61448c30e245",
+        "practices": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 2
       }
     ],
     "foregone": [
