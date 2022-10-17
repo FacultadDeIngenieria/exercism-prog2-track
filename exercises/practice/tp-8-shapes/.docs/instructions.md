@@ -2,9 +2,10 @@
 
 You have two jobs:
 
-- Create the 3 required subclasses from the `Shape` class:
+- Create the 4 required subclasses from the `Shape` class:
   - `Circle`
   - `Triangle`
+  - `Rectangle`
   - `Square`
   
 - Define the algorithms for:
@@ -14,3 +15,7 @@ You have two jobs:
   - Calculate the total length of all perimeters from a list of shapes
   - Calculate the max length of all perimeters from a list of shapes
   - Calculate the min length of all perimeters from a list of shapes
+
+
+_hint: square is a special case of rectangle, so it can have rectangle as a superclass._
+
