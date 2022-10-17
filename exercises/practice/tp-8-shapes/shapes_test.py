@@ -9,17 +9,17 @@ class ShapesTest(unittest.TestCase):
     def test_sum_shapes_areas(self):
         shapes: List[Shape] = [Circle(1), Rectangle(5, 1), Square(5), Triangle(10, 10, 10)]
         total_area: float = Shape.sum_areas(shapes)
-        assert math.isclose(total_area, math.pi + 5 + 25 + 4.33)
+        assert math.isclose(total_area, math.pi + 5 + 25 + 43.3)
 
     def test_max_shapes_areas(self):
         shapes: List[Shape] = [Circle(1), Rectangle(5, 1), Square(5), Triangle(10, 10, 10)]
         max_area: float = Shape.max_area(shapes)
-        assert math.isclose(max_area, 25)
+        assert math.isclose(max_area, 43.3)
 
     def test_min_shapes_areas(self):
         shapes: List[Shape] = [Circle(1), Rectangle(5, 1), Square(5), Triangle(10, 10, 10)]
         min_area: float = Shape.min_area(shapes)
-        assert math.isclose(min_area, math.pi)
+        assert math.isclose(min_area, 2 * math.pi)
 
     def test_sum_perimeters_areas(self):
         shapes: List[Shape] = [Circle(1), Rectangle(5, 1), Square(5), Triangle(10, 10, 10)]
