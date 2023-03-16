@@ -48,7 +48,7 @@
       {
         "slug": "installing-locally",
         "name": "Installing Locally",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fb",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fc",
         "practices": [],
         "concepts": ["installation"],
         "prerequisites": ["introduction"],
