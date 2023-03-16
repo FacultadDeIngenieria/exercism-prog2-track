@@ -1,0 +1,27 @@
+{
+  "blurb": "Basic math operations",
+  "authors": [
+    "mponce"
+  ],
+  "contributors": [
+    "jlongo",
+    "mmiodosky",
+    "mgutierrez",
+    "lluppani",
+    "aalexander",
+    "ggadea"
+  ],
+  "files": {
+    "solution": [
+      "variables.py"
+    ],
+    "test": [
+      "variables_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
