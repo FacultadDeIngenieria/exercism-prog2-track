@@ -40,6 +40,7 @@
         "name": "Hello World",
         "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8446",
         "practices": [],
+        "concepts": ["introduction"],
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
@@ -49,25 +50,28 @@
         "name": "Installing Locally",
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fb",
         "practices": [],
-        "prerequisites": [],
+        "concepts": ["installation"],
+        "prerequisites": ["introduction"],
         "difficulty": 1,
         "status": "beta"
       },
       {
         "slug": "prog1-tp1-variables",
-        "name": "variables",
+        "name": "TP 1 - Variables",
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f1",
         "practices": [],
-        "prerequisites": [],
+        "concepts": ["tp1","variables"],
+        "prerequisites": ["installation"],
         "difficulty": 2,
         "status": "beta"
       },
       {
         "slug": "prog1-tp1-math",
-        "name": "math_exercise",
+        "name": "TP 1 - Math",
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f2",
         "practices": [],
-        "prerequisites": [],
+        "prerequisites": ["installation"],
+        "concepts": ["tp1","math"],
         "difficulty": 2,
         "status": "beta"
       },
