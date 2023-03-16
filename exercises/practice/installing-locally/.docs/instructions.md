@@ -72,25 +72,25 @@ access token to it.
 
 To retrieve the access token you need to access this link:
 
-http://facultaddeingenieria.duckdns.org:3020/settings/api_cli
+http://facultaddeingenieria.duckdns.org/settings/api_cli
 
 You should see your authentication token there as shown in the picture below. Save it for later.
 
-![img.png](img.png)
+![https://drive.google.com/file/d/1VVr_6xfSsmSx6DFhM9Is6UPpIoOjXns7/view?usp=sharing](img.png)
 
 ### Exercism Instance
 
 As we told you, we are using a custom Exercism instance for this class.
 That instance is hosted under the following URL: 
 
-http://facultaddeingenieria.duckdns.org:3020
+http://facultaddeingenieria.duckdns.org
 
 ### Configuration
 
 To configure Exercism, run the following command replacing the authentication token placeholder `YOUR_TOKEN_GOES_HERE`
 with your authentication token
 
-`exercism configure --token=YOUR_TOKEN_GOES_HERE -a http://facultaddeingenieria.duckdns.org:3020/api/v1`
+`exercism configure --token=YOUR_TOKEN_GOES_HERE -a http://facultaddeingenieria.duckdns.org/api/v1`
 
 After running that command you should see an output similar to:
 
@@ -103,7 +103,7 @@ After running that command you should see an output similar to:
 To download a new exercise, you will see a suggested command on the Exercism's web page as in the picture shown below.
 You can copy that command and run it directly on your terminal.
 
-![img_1.png](img_1.png)
+![https://drive.google.com/file/d/1ZndAFYirRMBjJcjR3YYTF2MF2IK3AeMQ/view?usp=sharing](img_1.png)
 
 For example, the download command for the hello world exercise is:
 
