@@ -74,19 +74,21 @@ To retrieve the access token you need to access this link:
 
 http://facultaddeingenieria.duckdns.org:3020/settings/api_cli
 
-You should see a CLI token there. Save it
+You should see your authentication token there as shown in the picture below. Save it for later.
+
+![img.png](img.png)
 
 ### Exercism Instance
 
-As we told you, we are using a custum Exercism instance for this class.
+As we told you, we are using a custom Exercism instance for this class.
 That instance is hosted under the following URL: 
 
-`http://facultaddeingenieria.duckdns.org:3020/settings/api_cli`
+http://facultaddeingenieria.duckdns.org:3020
 
 ### Configuration
 
-To configure Exercism, run the following command replacing the access token placeholder
-with your access token
+To configure Exercism, run the following command replacing the authentication token placeholder `YOUR_TOKEN_GOES_HERE`
+with your authentication token
 
 `exercism configure --token=YOUR_TOKEN_GOES_HERE -a http://facultaddeingenieria.duckdns.org:3020/api/v1`
 
@@ -98,12 +100,14 @@ After running that command you should see an output similar to:
 
 ### Download
 
-To download a new exercise, you will see a suggested command on the Exercism's web page.
+To download a new exercise, you will see a suggested command on the Exercism's web page as in the picture shown below.
 You can copy that command and run it directly on your terminal.
+
+![img_1.png](img_1.png)
 
 For example, the download command for the hello world exercise is:
 
-`exercism download --exercise=hello-world --track=python`
+`exercism download --exercise=installing-locally --track=exercism-prog2-track`
 
 Running this command downloads the exercise for you, and tells you
 were the exercise was downloaded. You can now solve that exercise using 
@@ -118,9 +122,9 @@ To submit an exercise you need to be inside the directory where the exercise
 was downloaded and run the following command:
 
 
-`exercism submit hello_world.py`
+`exercism submit installing_locally.py`
 
-For other exercises, replace the `hello_world.py` reference to the reference
+For other exercises, replace the `installing_locally.py` reference to the reference
 of the file where you solved the exercise.
 
 
