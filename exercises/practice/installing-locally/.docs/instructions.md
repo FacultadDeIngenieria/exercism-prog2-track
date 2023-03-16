@@ -76,8 +76,6 @@ http://facultaddeingenieria.duckdns.org/settings/api_cli
 
 You should see your authentication token there as shown in the picture below. Save it for later.
 
-![https://drive.google.com/file/d/1VVr_6xfSsmSx6DFhM9Is6UPpIoOjXns7/view?usp=sharing](img.png)
-
 ### Exercism Instance
 
 As we told you, we are using a custom Exercism instance for this class.
@@ -102,8 +100,6 @@ After running that command you should see an output similar to:
 
 To download a new exercise, you will see a suggested command on the Exercism's web page as in the picture shown below.
 You can copy that command and run it directly on your terminal.
-
-![https://drive.google.com/file/d/1ZndAFYirRMBjJcjR3YYTF2MF2IK3AeMQ/view?usp=sharing](img_1.png)
 
 For example, the download command for the hello world exercise is:
 
