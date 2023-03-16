@@ -33,7 +33,7 @@
     ]
   },
   "exercises": {
-    "concept":[],
+    "concept": [],
     "practice": [
       {
         "slug": "hello-world",
@@ -42,6 +42,15 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 1,
+        "status": "beta"
+      },
+      {
+        "slug": "installing-locally",
+        "name": "Installing Locally",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fb",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2,
         "status": "beta"
       },
       {
@@ -72,13 +81,114 @@
         "status": "beta"
       },
       {
-        "slug": "installing-locally",
-        "name": "Installing Locally",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239fb",
+        "slug": "tp-2-matrix-and-exceptions",
+        "name": "TP2 - Matrix & Exceptions",
+        "uuid": "ccf7641b-d85f-4d2f-a79c-485ae5096e7b",
         "practices": [],
         "prerequisites": [],
         "difficulty": 2,
         "status": "beta"
+      },
+      {
+        "slug": "tp-3-inventory-management",
+        "name": "TP3 - Inventory Management",
+        "uuid": "4df33a22-ecad-471b-ba90-8f0de671409d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2,
+        "status": "beta"
+      },
+      {
+        "slug": "tp-3-word-count",
+        "name": "TP3 - Word Count",
+        "uuid": "3334d53b-7d28-4a06-b545-148d05e87744",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
+        "slug": "tp-3-cater-waiter",
+        "name": "TP3 - Cater Waiter",
+        "uuid": "20a56fd3-34a8-4770-9100-2c97f2564bd5",
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 2
+      },
+      {
+        "slug": "tp-4-fraction",
+        "name": "TP4 - Fraction",
+        "uuid": "3e77916c-4ef3-4063-8343-0421c8b61277",
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 2
+       },
+      {
+        "slug": "tp-5-school",
+        "name": "TP5 - School",
+        "uuid": "320A4357-8B92-4C67-A2C0-2BC065D7BA1C", 
+        "practices": ["sets", "dicts", "classes"],
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 4
+      },
+      {
+        "slug": "practice-circular-buffer",
+        "name": "Practice - Circular Buffer",
+        "uuid": "21a414aa-c010-4bbe-b472-8c2a3601f1ab",
+        "practices": ["sets", "dicts", "classes"],
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 4
+      },
+      {
+        "slug": "tp-6-xor",
+        "name": "TP6 - XOR encryption",
+        "uuid": "21a414aa-c010-4bbe-b472-8c2a3601f1ac",
+        "practices": ["sets", "dicts", "classes"],
+        "concepts": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 4
+      },
+      {
+        "slug": "tp-7-sum-of-multiples",
+        "name": "TP7 - Sum Of Multiples",
+        "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b072",
+        "practices": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 1
+      },
+      {
+        "slug": "tp-7-protein-translation",
+        "name": "TP7 - Protein Translation",
+        "uuid": "c89243f3-703e-4fe0-8e43-f200eedf2871",
+        "practices": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 2
+      },
+      {
+        "slug": "tp-7-trapezoid-rule",
+        "name": "TP7 - Trapezoid rule",
+        "uuid": "6e0caa0a-6a1a-4f03-bf0f-e07711f4b070",
+        "practices": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 1
+      },
+      {
+        "slug": "tp-8-shapes",
+        "name": "TP8 - Shapes",
+        "uuid": "c0ef08d7-52b8-46d4-b846-61448c30e245",
+        "practices": [],
+        "prerequisites": [],
+        "status": "beta",
+        "difficulty": 2
       }
     ],
     "foregone": [
