@@ -74,6 +74,16 @@
         "concepts": ["tp1","math"],
         "difficulty": 2,
         "status": "beta"
+      },
+      {
+        "slug": "prog-1-tp1-math",
+        "name": "TP 1 - Math",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f7",
+        "practices": [],
+        "prerequisites": [],
+        "concepts": ["tp1","math"],
+        "difficulty": 2,
+        "status": "beta"
       }
     ],
     "foregone": [
