@@ -19,10 +19,10 @@
   ],
   "files": {
     "solution": [
-      "hello_world.py"
+      "prueba.py"
     ],
     "test": [
-      "hello_world_test.py"
+      "prueba_test.py"
     ],
     "example": [
       ".meta/example.py"
