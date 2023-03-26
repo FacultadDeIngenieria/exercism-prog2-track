@@ -60,7 +60,7 @@
         "name": "TP 1 - Variables",
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f5",
         "practices": [],
-        "concepts": ["tp1","variables"],
+        "concepts": [],
         "prerequisites": [],
         "difficulty": 2,
         "status": "beta"
@@ -71,7 +71,7 @@
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f6",
         "practices": [],
         "prerequisites": [],
-        "concepts": ["tp1","math"],
+        "concepts": [],
         "difficulty": 2,
         "status": "beta"
       },
@@ -81,7 +81,7 @@
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f8",
         "practices": [],
         "prerequisites": [],
-        "concepts": ["tp1","math"],
+        "concepts": [],
         "difficulty": 2,
         "status": "beta"
       }
