@@ -3,20 +3,7 @@
   "authors": [
     "michaelem"
   ],
-  "contributors": [
-    "behrtam",
-    "cmccandless",
-    "Dog",
-    "hebertjulio",
-    "ikhadykin",
-    "kytrinyx",
-    "N-Parsons",
-    "NobbZ",
-    "pheanex",
-    "skeskali",
-    "Sukhj1nder",
-    "tqa236"
-  ],
+  "contributors": [],
   "files": {
     "solution": [
       "prueba.py"

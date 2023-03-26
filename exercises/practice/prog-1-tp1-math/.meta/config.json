@@ -1,16 +1,9 @@
 {
   "blurb": "Basic math operations",
   "authors": [
-    "mponce"
+    "matiasponce"
   ],
-  "contributors": [
-    "jlongo",
-    "mmiodosky",
-    "mgutierrez",
-    "lluppani",
-    "aalexander",
-    "ggadea"
-  ],
+  "contributors": [],
   "files": {
     "solution": [
       "variables.py"
