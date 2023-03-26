@@ -58,7 +58,7 @@
       {
         "slug": "prog-1-tp1-variables",
         "name": "TP 1 - Variables",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f1",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f5",
         "practices": [],
         "concepts": ["tp1","variables"],
         "prerequisites": [],
@@ -68,7 +68,7 @@
       {
         "slug": "prog-1-tp1-math",
         "name": "TP 1 - Math",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f2",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f6",
         "practices": [],
         "prerequisites": [],
         "concepts": ["tp1","math"],
