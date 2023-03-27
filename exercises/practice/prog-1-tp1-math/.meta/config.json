@@ -6,10 +6,10 @@
   "contributors": [],
   "files": {
     "solution": [
-      "variables.py"
+      "prog_1_tp1_math.py"
     ],
     "test": [
-      "variables_test.py"
+      "prog_1_tp1_math_test.py"
     ],
     "example": [
       ".meta/example.py"
