@@ -1,6 +1,4 @@
 import unittest
-import io
-import sys
 
 class VariablesTest(unittest.TestCase):
     def test(self):
