@@ -1,6 +1,6 @@
 import unittest
 
-from hello_world import (
+from hello_world_2 import (
     hello,
 )
 

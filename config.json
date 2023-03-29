@@ -86,9 +86,29 @@
         "status": "beta"
       },
       {
-        "slug": "prueba",
-        "name": "TP 1 - Prueba",
+        "slug": "prog-1-tp2-strings-manipulation",
+        "name": "TP 2 - Strings Manipulation",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f7",
+        "practices": [],
+        "prerequisites": [],
+        "concepts": [],
+        "difficulty": 2,
+        "status": "beta"
+      },
+      {
+        "slug": "prog-1-tp2-strings-concatenation",
+        "name": "TP 2 - String Concatenation",
         "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f8",
+        "practices": [],
+        "prerequisites": [],
+        "concepts": [],
+        "difficulty": 2,
+        "status": "beta"
+      },
+      {
+        "slug": "prog-1-tp2-strings-input",
+        "name": "TP 2 - String Input",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f9",
         "practices": [],
         "prerequisites": [],
         "concepts": [],
