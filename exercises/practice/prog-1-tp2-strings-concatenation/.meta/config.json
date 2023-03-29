@@ -1,0 +1,20 @@
+{
+  "blurb": "Basic math operations",
+  "authors": [
+    "matiasponce"
+  ],
+  "contributors": [],
+  "files": {
+    "solution": [
+      "prog_1_tp2_strings_concatenation.py"
+    ],
+    "test": [
+      "prog_1_tp2_strings_concatenation_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
