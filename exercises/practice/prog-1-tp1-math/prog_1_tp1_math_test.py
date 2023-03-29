@@ -3,7 +3,7 @@ import unittest
 
 class MathTest(unittest.TestCase):
     def test(self):
-        self.assertEqual(True, True)
+        pass
 
 
 if __name__ == "__main__":
