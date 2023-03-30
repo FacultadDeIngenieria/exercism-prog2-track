@@ -58,7 +58,7 @@
       {
         "slug": "installing-locally",
         "name": "Installing Locally",
-        "uuid": "a0f3c437-8a84-4004-9ea8-54c344b2c22a",
+        "uuid": "a0f3c437-8a84-4004-9ea8-54c344baa00",
         "practices": [],
         "concepts": ["installation"],
         "prerequisites": [],
@@ -68,7 +68,7 @@
       {
         "slug": "prog-1-tp1-variables",
         "name": "TP 1 - Variables",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f5",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff2aa01",
         "practices": [],
         "concepts": [],
         "prerequisites": [],
@@ -78,7 +78,7 @@
       {
         "slug": "prog-1-tp1-math",
         "name": "TP 1 - Math",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f6",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff2aa02",
         "practices": [],
         "prerequisites": [],
         "concepts": [],
@@ -88,7 +88,7 @@
       {
         "slug": "prog-1-tp2-strings-manipulation",
         "name": "TP 2 - Strings Manipulation",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f7",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff2aa03",
         "practices": [],
         "prerequisites": [],
         "concepts": [],
@@ -98,7 +98,7 @@
       {
         "slug": "prog-1-tp2-strings-concatenation",
         "name": "TP 2 - String Concatenation",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f8",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff2aa04",
         "practices": [],
         "prerequisites": [],
         "concepts": [],
@@ -108,7 +108,7 @@
       {
         "slug": "prog-1-tp2-strings-input",
         "name": "TP 2 - String Input",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f9",
+        "uuid": "e2255854-ce40-4984-8a91-0cd12ff2aa05",
         "practices": [],
         "prerequisites": [],
         "concepts": [],
