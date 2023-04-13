@@ -1,28 +1,13 @@
 {
   "blurb": "The classical introductory exercise. Just say \"Hello, World!\".",
-  "authors": [
-    "michaelem"
-  ],
-  "contributors": [
-    "behrtam",
-    "cmccandless",
-    "Dog",
-    "hebertjulio",
-    "ikhadykin",
-    "kytrinyx",
-    "N-Parsons",
-    "NobbZ",
-    "pheanex",
-    "skeskali",
-    "Sukhj1nder",
-    "tqa236"
-  ],
+  "authors": [],
+  "contributors": [],
   "files": {
     "solution": [
-      "hello_world_2.py"
+      "hello_world.py"
     ],
     "test": [
-      "hello_world_test_2.py"
+      "hello_world_test.py"
     ],
     "example": [
       ".meta/example.py"

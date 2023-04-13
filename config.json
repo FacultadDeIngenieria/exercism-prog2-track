@@ -40,86 +40,17 @@
         "name": "Hello World",
         "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8446",
         "practices": [],
-        "concepts": ["introduction"],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "hello-world-2",
-        "name": "Hello World 2",
-        "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8000",
-        "practices": [],
-        "concepts": ["introduction"],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "installing-locally",
-        "name": "Installing Locally",
-        "uuid": "a0f3c437-8a84-4004-9ea8-54c344b2c22a",
-        "practices": [],
-        "concepts": ["installation"],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "prog-1-tp1-variables",
-        "name": "TP 1 - Variables",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f5",
-        "practices": [],
         "concepts": [],
         "prerequisites": [],
-        "difficulty": 2,
-        "status": "beta"
-      },
-      {
-        "slug": "prog-1-tp1-math",
-        "name": "TP 1 - Math",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f6",
-        "practices": [],
-        "prerequisites": [],
-        "concepts": [],
-        "difficulty": 2,
-        "status": "beta"
-      },
-      {
-        "slug": "prueba",
-        "name": "TP 1 - Prueba",
-        "uuid": "e2255854-ce40-4984-8a91-0cd12ff239f8",
-        "practices": [],
-        "prerequisites": [],
-        "concepts": [],
-        "difficulty": 2,
+        "difficulty": 1,
         "status": "beta"
       }
     ],
     "foregone": [
-      "lens-person"
     ]
   },
   "concepts": [],
   "key_features": [],
   "tags": [
-    "paradigm/imperative",
-    "paradigm/object_oriented",
-    "paradigm/functional",
-    "typing/dynamic",
-    "typing/strong",
-    "execution_mode/interpreted",
-    "platform/windows",
-    "platform/mac",
-    "platform/linux",
-    "runtime/language_specific",
-    "used_for/artificial_intelligence",
-    "used_for/backends",
-    "used_for/cross_platform_development",
-    "used_for/embedded_systems",
-    "used_for/games",
-    "used_for/robotics",
-    "used_for/scientific_calculations",
-    "used_for/scripts"
   ]
 }
