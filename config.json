@@ -57,7 +57,7 @@
       },
       {
         "slug": "tp-2-math",
-        "name": "TP2 Math",
+        "name": "TP1 Math",
         "uuid": "82d4f9ba-1961-4558-a39b-7470a530f707",
         "practices": [],
         "concepts": [],
@@ -67,7 +67,7 @@
       },
       {
         "slug": "tp-3-formatting-names",
-        "name": "TP3 Formatting Names",
+        "name": "TP2 Formatting Names",
         "uuid": "b9adf6c0-ba6b-495d-aed7-d4afa00cbf7c",
         "practices": [],
         "concepts": [],
@@ -77,7 +77,7 @@
       },
       {
         "slug": "tp-4-sorting-countries",
-        "name": "TP4 Sorting Countries",
+        "name": "TP2 Sorting Countries",
         "uuid": "ed17af48-f2e9-4207-9dc5-0214b2e000eb",
         "practices": [],
         "concepts": [],
@@ -87,7 +87,7 @@
       },
       {
         "slug": "tp-5-calculating-change",
-        "name": "TP5 Calculating Change",
+        "name": "TP2 Calculating Change",
         "uuid": "2a69c14c-74a1-40e2-96d6-5ded2adddc17",
         "practices": [],
         "concepts": [],
@@ -97,8 +97,18 @@
       },
       {
         "slug": "tp-6-line",
-        "name": "TP6 Lines",
+        "name": "TP3 Lines",
         "uuid": "144e603e-8658-43f1-a200-dcea696a25f4",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
+      },
+      {
+        "slug": "tp-7-leap-year",
+        "name": "TP3 Leap year",
+        "uuid": "144e603e-8658-43f1-a200-dcea696a25f5",
         "practices": [],
         "concepts": [],
         "prerequisites": [],
