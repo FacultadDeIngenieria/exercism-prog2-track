@@ -8,7 +8,7 @@ def calculate_integer_part_of_change(amount, amount_payed):
     return 1
 
 
-def calculate_cents_part_of_change():
+def calculate_cents_part_of_change(amount, amount_payed):
     return 1
 
 # println("Pesos")
