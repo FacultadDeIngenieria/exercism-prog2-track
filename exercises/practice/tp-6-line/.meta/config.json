@@ -4,10 +4,10 @@
   "contributors": [],
   "files": {
     "solution": [
-      "prog_1_tp3_line_equation.py"
+      "tp_6_line.py"
     ],
     "test": [
-      "prog_1_tp3_line_equation_test.py"
+      "tp_6_line_test.py"
     ],
     "example": [
       ".meta/example.py"
