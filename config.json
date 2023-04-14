@@ -84,6 +84,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-5-calculating-change",
+        "name": "TP5 Calculating Change",
+        "uuid": "2a69c14c-74a1-40e2-96d6-5ded2adddc17",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
