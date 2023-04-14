@@ -1,4 +1,4 @@
-def hello():
+def main():
    i1 = 3
    i2 = 5
    i3 = i2 + i1
