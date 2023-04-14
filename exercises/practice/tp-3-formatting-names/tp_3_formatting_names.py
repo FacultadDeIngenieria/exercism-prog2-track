@@ -1,5 +1,5 @@
-first_name = AdA
-last_name  = LoVeLAce
+first_name = "AdA"
+last_name  = "LoVeLAce"
 
 def all_lower_case():
     return ""
