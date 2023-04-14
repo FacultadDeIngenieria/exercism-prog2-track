@@ -15,10 +15,10 @@ class HelloWorldTest(unittest.TestCase):
     def test_2(self):
         self.assertEqual(calculate_integer_part_of_change(100, 100.5), 0)
 
-    def test_1(self):
+    def test_3(self):
         self.assertEqual(calculate_cents_part_of_change(100, 101.5), 50)
 
-    def test_2(self):
+    def test_4(self):
         self.assertEqual(calculate_cents_part_of_change(100, 101), 0)
 
 if __name__ == "__main__":
