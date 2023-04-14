@@ -17,7 +17,7 @@ class HelloWorldTest(unittest.TestCase):
     def test_3(self):
         self.assertEqual(all_upper_case(), "ADA LOVELACE")
     def test_4(self):
-        self.assertEqual(tabbed(), "    ada lovelace")
+        self.assertEqual(tabbed(), "\tada lovelace")
 
 
 if __name__ == "__main__":
