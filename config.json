@@ -44,6 +44,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-1-predict-print",
+        "name": "TP1 Predict print",
+        "uuid": "e5cf5eef-5e78-4acf-b7cb-b4a1cdb10f1e",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [

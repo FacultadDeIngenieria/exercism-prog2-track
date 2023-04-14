@@ -1,18 +1,18 @@
 {
-  "blurb": "Using conditions and ifs",
+  "blurb": "Lets predict what Python is going to do!",
   "authors": [],
   "contributors": [],
   "files": {
     "solution": [
-      "prog_1_tp3_leap_year.py"
+      "tp_1_predict_print.py"
     ],
     "test": [
-      "prog_1_tp3_leap_year_test.py"
+      "tp_1_predict_print_test.py"
     ],
     "example": [
       ".meta/example.py"
     ]
   },
-  "source": "This is an exercise to introduce users to using Exercism",
+  "source": "This is an exercise to introduce users to using Prog1",
   "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
 }
