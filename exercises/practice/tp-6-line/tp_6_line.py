@@ -1,3 +1,5 @@
+import math
+
 # a = input("Ingrese coeficiente A")
 # b = input("Ingrese coeficiente B")
 # x1 = input("Ingrese coeficiente X1")
