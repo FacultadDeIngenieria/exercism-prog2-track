@@ -21,4 +21,4 @@ def distance(a, b, x1, x2):
 # println("P1 " + point_to_string(a, b, x1))
 # println("P2 " + point_to_string(a, b, x2))
 
-println("La distancia entre ellos es: " + distance(a, b, x1, x2)
+# println("La distancia entre ellos es: " + distance(a, b, x1, x2))

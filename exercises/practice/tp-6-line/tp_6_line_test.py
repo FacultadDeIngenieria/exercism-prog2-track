@@ -2,7 +2,7 @@ import unittest
 
 # Tests adapted from `problem-specifications//canonical-data.json`
 
-from tp_6_line.py import (
+from tp_6_line import (
     equation_to_string,
     point_to_string,
     distance
