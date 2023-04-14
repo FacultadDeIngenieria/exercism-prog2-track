@@ -2,19 +2,12 @@ Escribir un programa que dado dos números enteros imprima en pantalla el result
 
 Ejemplo: Para a = 57 y b = 7 el output debera ser:
 
-`
+```
 64
-
 50
-
 399
-
 32.0
-
 8
-
 1
-
 8.142857142857142
-
-`
+```
