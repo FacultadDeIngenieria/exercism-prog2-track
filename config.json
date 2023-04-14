@@ -46,6 +46,16 @@
         "status": "beta"
       },
       {
+        "slug": "installing-locally",
+        "name": "Installing locally",
+        "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8447",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
+      },
+      {
         "slug": "tp-1-predict-print",
         "name": "TP1 Predict print",
         "uuid": "e5cf5eef-5e78-4acf-b7cb-b4a1cdb10f1e",
