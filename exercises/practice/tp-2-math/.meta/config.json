@@ -1,0 +1,18 @@
+{
+  "blurb": "Lets see how math works!",
+  "authors": [],
+  "contributors": [],
+  "files": {
+    "solution": [
+      "tp_2_math.py"
+    ],
+    "test": [
+      "tp_2_math_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Prog1",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}

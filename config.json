@@ -54,6 +54,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-2-math",
+        "name": "TP2 Math",
+        "uuid": "82d4f9ba-1961-4558-a39b-7470a530f707",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
