@@ -1,10 +1,8 @@
 import unittest
 
-
 class StringManipulationTest(unittest.TestCase):
     def testString(self):
-        pass
-
+        self.assertEqual("Hello, World!", "Hello, World!")
 
 if __name__ == "__main__":
     unittest.main()

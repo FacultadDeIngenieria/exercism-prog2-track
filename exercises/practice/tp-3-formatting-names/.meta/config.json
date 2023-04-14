@@ -1,15 +1,13 @@
 {
   "blurb": "Basic math operations",
-  "authors": [
-    "matiasponce"
-  ],
+  "authors": [],
   "contributors": [],
   "files": {
     "solution": [
-      "prog_1_tp2_strings_manipulation.py"
+      "tp_3_formatting_names.py"
     ],
     "test": [
-      "prog_1_tp2_strings_manipulation_test.py"
+      "tp_3_formatting_names_test.py"
     ],
     "example": [
       ".meta/example.py"

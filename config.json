@@ -64,6 +64,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-3-formatting-names",
+        "name": "TP3 Formatting Names",
+        "uuid": "b9adf6c0-ba6b-495d-aed7-d4afa00cbf7c",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
