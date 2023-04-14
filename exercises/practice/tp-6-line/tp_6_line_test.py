@@ -22,7 +22,7 @@ class LineEquationTest(unittest.TestCase):
         self.assertEqual(point_to_string(1, 1, 1), "(1, 2)")
 
     def test_5(self):
-        self.assertEqual(distance(5/3, 0, 0, 3), 5)
+        self.assertEqual(distance(4/3, 0, 0, 3), 5)
 
 
 if __name__ == "__main__":
