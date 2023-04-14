@@ -74,6 +74,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-4-sorting-countries",
+        "name": "TP4 Sorting Countries",
+        "uuid": "ed17af48-f2e9-4207-9dc5-0214b2e000eb",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
