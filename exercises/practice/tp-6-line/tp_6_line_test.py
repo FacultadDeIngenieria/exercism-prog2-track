@@ -19,7 +19,7 @@ class LineEquationTest(unittest.TestCase):
         self.assertEqual(point_to_string(1, 1, 0), "(0, 1)")
 
     def test_4(self):
-        self.assertEqual(point_to_string(1, 1, 1), "(0, 2)")
+        self.assertEqual(point_to_string(1, 1, 1), "(1, 2)")
 
     def test_5(self):
         self.assertEqual(distance(1, 1, 0, 3), 5)
