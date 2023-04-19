@@ -124,6 +124,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-4-max-number",
+        "name": "TP4 Max number",
+        "uuid": "144e603e-8658-43f1-a200-dcea696a25f6",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
