@@ -23,4 +23,4 @@ def derivation(a, b):
 ```
 
 HINT: Para resolver una cuadrática:
-![cuadratic]({{site.baseurl}}/practice/tp4.png)
+[quadratic](https://en.wikipedia.org/wiki/Quadratic_formula)
