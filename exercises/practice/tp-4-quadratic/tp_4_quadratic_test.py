@@ -43,13 +43,13 @@ class QuadraticTest(unittest.TestCase):
         self.assertEqual(to_string(-3, 5, 4), "Y = -3 * X2 + 5 * X + 4")
 
     def test_11(self):
-        self.assertEqual(derivation(2,4), "Y' = 2 * X + 4")
+        self.assertEqual(derivation(2,4), "Y' = 4 * X + 4")
 
     def test_12(self):
         self.assertEqual(derivation(0,0), "Y' = 0 * X + 0")
 
     def test_13(self):
-        self.assertEqual(derivation(-1,2), "Y' = -1 * X + 2")
+        self.assertEqual(derivation(-1,2), "Y' = -2 * X + 2")
 
 
 if __name__ == "__main__":
