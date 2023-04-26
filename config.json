@@ -154,6 +154,16 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-5-strings-list",
+        "name": "TP5 Strings as lists",
+        "uuid": "144e603e-8658-43f1-a200-dcea696a25f9",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
