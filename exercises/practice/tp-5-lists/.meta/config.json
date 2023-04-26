@@ -1,0 +1,18 @@
+{
+  "blurb": "Calculating change",
+  "authors": [],
+  "contributors": [],
+  "files": {
+    "solution": [
+      "tp_5_lists.py"
+    ],
+    "test": [
+      "tp_5_lists_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
