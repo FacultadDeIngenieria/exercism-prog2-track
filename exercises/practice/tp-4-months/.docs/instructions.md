@@ -1,4 +1,4 @@
-Hacer un metodo llamado *numberToMonth* que dado un numero entre el 1 y el 12, devuelva el nombre del mes que representa en el calendario. Si el numero no esta entre el rango 1 y 12, se debera retornar la palabra "error".
+Hacer un método llamado *numberToMonth* que dado un numero entre el 1 y el 12, devuelva el nombre del mes que representa en el calendario. Si el numero no esta entre el rango 1 y 12, se debera retornar la palabra "error".
 
 ```python
 def number_to_month(month):

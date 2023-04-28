@@ -1,13 +1,13 @@
 {
-  "blurb": "Month calculate",
+  "blurb": "Month calculation",
   "authors": [],
   "contributors": [],
   "files": {
     "solution": [
-      "tp_4_month.py"
+      "tp_4_months.py"
     ],
     "test": [
-      "tp_4_month_test.py"
+      "tp_4_months_test.py"
     ],
     "example": [
       ".meta/example.py"
