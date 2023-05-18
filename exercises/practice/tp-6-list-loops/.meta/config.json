@@ -1,0 +1,18 @@
+{
+  "blurb": "Loops and lists",
+  "authors": [],
+  "contributors": [],
+  "files": {
+    "solution": [
+      "tp_6_list_loops.py"
+    ],
+    "test": [
+      "tp_6_list_loops_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}

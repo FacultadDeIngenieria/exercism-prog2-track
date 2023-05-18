@@ -1,0 +1,18 @@
+{
+  "blurb": "Recursion",
+  "authors": [],
+  "contributors": [],
+  "files": {
+    "solution": [
+      "tp_7_recursive.py"
+    ],
+    "test": [
+      "tp_7_recursive_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
