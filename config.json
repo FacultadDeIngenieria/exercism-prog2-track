@@ -184,6 +184,26 @@
         "prerequisites": [],
         "difficulty": 1,
         "status": "beta"
+      },
+      {
+        "slug": "tp-6-list-loops",
+        "name": "TP6 List Loops",
+        "uuid": "2cf58d1f-c37d-4c8f-956c-31d74a55aaaa",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
+      },
+      {
+        "slug": "tp-7-recursive",
+        "name": "TP6 List Loops",
+        "uuid": "3565158f-2290-483a-8989-f8ba45594e71",
+        "practices": [],
+        "concepts": [],
+        "prerequisites": [],
+        "difficulty": 1,
+        "status": "beta"
       }
     ],
     "foregone": [
