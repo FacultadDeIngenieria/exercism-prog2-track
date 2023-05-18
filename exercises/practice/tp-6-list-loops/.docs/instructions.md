@@ -1,4 +1,4 @@
-Dado la siguiente consigna, implementar las siguientes funciones TODAS USANDO RECURSIVIDAD (Eso significa, sin usar for o while):
+Dado la siguiente consigna, implementar las siguientes funciones.
 
 * Método **index_of** que retorne el índice de la primera ocurrencia de un String dentro de una lista de Strings. En caso 
   de no encontrarse ninguna retorna el valor -1.
