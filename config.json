@@ -38,7 +38,7 @@
       {
         "slug": "hello-world",
         "name": "Hello World",
-        "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8446",
+        "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8400",
         "practices": [],
         "concepts": [],
         "prerequisites": [],
@@ -48,7 +48,7 @@
       {
         "slug": "installing-locally",
         "name": "Installing locally",
-        "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8447",
+        "uuid": "f1c545d8-0fab-466c-8b3a-a4a615cf8401",
         "practices": [],
         "concepts": [],
         "prerequisites": [],
@@ -58,147 +58,7 @@
       {
         "slug": "tp-1-predict-print",
         "name": "TP1 Predict print",
-        "uuid": "e5cf5eef-5e78-4acf-b7cb-b4a1cdb10f1e",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-2-math",
-        "name": "TP1 Math",
-        "uuid": "82d4f9ba-1961-4558-a39b-7470a530f707",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-3-formatting-names",
-        "name": "TP2 Formatting Names",
-        "uuid": "b9adf6c0-ba6b-495d-aed7-d4afa00cbf7c",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-4-sorting-countries",
-        "name": "TP2 Sorting Countries",
-        "uuid": "ed17af48-f2e9-4207-9dc5-0214b2e000eb",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-5-calculating-change",
-        "name": "TP2 Calculating Change",
-        "uuid": "2a69c14c-74a1-40e2-96d6-5ded2adddc17",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-6-line",
-        "name": "TP3 Lines",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f4",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-7-leap-year",
-        "name": "TP3 Leap year",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f5",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-4-max-number",
-        "name": "TP4 Max number",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f6",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-4-months",
-        "name": "TP4 Months",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f7",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-4-quadratic",
-        "name": "TP4 Quadratic equation",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f8",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-5-strings-list",
-        "name": "TP5 Strings as lists",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f9",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-5-lists",
-        "name": "TP5 Lists",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f0",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-6-loops",
-        "name": "TP6 Loops",
-        "uuid": "144e603e-8658-43f1-a200-dcea696a25f1",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-6-list-loops",
-        "name": "TP6 List Loops",
-        "uuid": "2cf58d1f-c37d-4c8f-956c-31d74a55aaaa",
-        "practices": [],
-        "concepts": [],
-        "prerequisites": [],
-        "difficulty": 1,
-        "status": "beta"
-      },
-      {
-        "slug": "tp-7-recursive",
-        "name": "TP7 Recursion",
-        "uuid": "3565158f-2290-483a-8989-f8ba45594e71",
+        "uuid": "e5cf5eef-5e78-4acf-b7cb-b4a1cdb10f02",
         "practices": [],
         "concepts": [],
         "prerequisites": [],
